@@ -42,7 +42,7 @@
           "https://camo.githubusercontent.com/ceb12d921abbf59de971edc6b83f022c14310055bf82fd007b8cdc95aea48319/68747470733a2f2f692e696d6775722e636f6d2f414b54747952552e706e67",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/shongie",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -62,7 +62,7 @@
           "https://www.highsnobiety.com/static-assets/thumbor/Io4m6rp2TtN8qaqYb9YJpstyiPA=/1600x2000/www.highsnobiety.com/static-assets/wp-content/uploads/2018/10/08163100/011.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/shongie",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -74,7 +74,7 @@
           },
           {
             "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "C++"
           }
         ]
       }
@@ -82,29 +82,13 @@
     "experience": [
       {
         "company": "Digital Academy",
-        "title": "full stack intern",
+        "title": "Full Stack Software Developer",
         "years": "june-2022 - present",
         "mainTech": [
           "Angular 8/9/10"
         ],
         "technologies": [
         
-          "JavaScript",
-          "Bootstrap",
-          "Angular",
-          "tailwind",
-          "tailwind",
-          "Html"
-        ]
-      },
-    {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
           "JavaScript",
           "Bootstrap",
           "Angular",
