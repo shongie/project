@@ -15,10 +15,10 @@
         "startDate": "2022",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologie,with this application you can make an online reservation for table at any restaurent of your choice",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
+          "src/img/Smart-reserve-app.png",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://camo.githubusercontent.com/ceb12d921abbf59de971edc6b83f022c14310055bf82fd007b8cdc95aea48319/68747470733a2f2f692e696d6775722e636f6d2f414b54747952552e706e67",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -39,7 +39,7 @@
         "startDate": "2022",
         "description": "Personal project for my understanding on the technologies that im using. I was responsible for frontend and backend)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
+          "https://camo.githubusercontent.com/ceb12d921abbf59de971edc6b83f022c14310055bf82fd007b8cdc95aea48319/68747470733a2f2f692e696d6775722e636f6d2f414b54747952552e706e67",
           "images/portfolio/photography/p2.jpg"
         ],
         "url": "https://github.com",

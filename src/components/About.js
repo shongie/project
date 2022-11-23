@@ -3,11 +3,12 @@ import { Icon } from "@iconify/react";
 import angularIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
 import vueIcon from "@iconify/icons-logos/vue";
+import xongipic from '../../src/img/xongi-pic.jpg';
 
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
-      var profilepic = "https://github.com/shongie/project/blob/rixongile/src/components/About.js/xongi-pic.jpg" + this.props.sharedBasicInfo.image;
+      var profilepic = "../public/images/xongi-pic.jpg" + this.props.sharedBasicInfo.image;
     }
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
@@ -27,7 +28,7 @@ class About extends Component {
                 <span style={{ cursor: "auto" }}>
                   <img
                     height="250px"
-                    src="https://github.com/shongie/project/blob/rixongile/public/images/xongi-pic.jpg"
+                    src={xongipic}
                     alt="Avatar placeholder"
                   />
                   <Icon
