@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Rixongile Rivisi. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React . What you are seeing now is portfolio template . If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "👋 Hi",
+      "description": "i'm Rixongile Rivisi a Full stack developer who is proficient in both front and back end websites, developing servers, and databases for website functionality,and coding for mobile platforms. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -42,7 +42,7 @@
           "https://camo.githubusercontent.com/ceb12d921abbf59de971edc6b83f022c14310055bf82fd007b8cdc95aea48319/68747470733a2f2f692e696d6775722e636f6d2f414b54747952552e706e67",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com/shongie",
+        "url": "https://github.com/shongie/Todo-Application",
         "technologies": [
           {
             "class": "devicon-react-original",

@@ -26,11 +26,14 @@ class About extends Component {
             <div className="col-md-4 mb-5 center">
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
+                  <a href="src/img/xongie-cv.pdf" >
                   <img
                     height="250px"
                     src={xongipic}
                     alt="Avatar placeholder"
                   />
+                  </a>
+                  
                   <Icon
                     icon={angularIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
