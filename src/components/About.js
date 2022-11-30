@@ -26,7 +26,7 @@ class About extends Component {
             <div className="col-md-4 mb-5 center">
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
-                  <a href="src/img/xongie-cv.pdf" >
+                  <a href="#" >
                   <img
                     height="250px"
                     src={xongipic}
